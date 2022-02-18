@@ -1,0 +1,3 @@
+NAME: SAMURAI
+CLASS: B19
+LOCATION: Spring Valley
